@@ -1,4 +1,3 @@
-```markdown
 # 🧮 Terminal Calculator em Go
 
 Uma calculadora interativa via terminal desenvolvida em **Go (Golang)**. O programa permite construir expressões matemáticas passo a passo, atualizando a visualização no terminal de forma limpa a cada entrada.
